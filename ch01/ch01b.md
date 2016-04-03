@@ -1,6 +1,5 @@
-# Faith, Reason and Analogical Thinking
+## 1.2 Reason and Faith
 
-## Reason and Faith
 Although the probabilistic model outlined above provides a reasonably systematic framework for analyzing religious hypotheses, it would be entirely inappropriate to assume that theoretical conclusions of any kind (however logically sound they may be) can provide a proper foundation for religious belief.
 
 > “Philosophical thinking can enable us to see through objections to Christian belief. ... but it rarely, if ever, propels one into a condition of faith.” William P. Alston[^13]
@@ -44,12 +43,12 @@ For a scientist whose mindset revolves around reason and logic, the first step t
 
 With that in mind, a significant portion of this book is concerned with exploring the limits of science and mathematics., together with their theological and philosophical implications. A deeper understanding of chaos theory, metamathematics, quantum mechanics and relativity can be very helpful in that respect, and can provide a natural framework for speaking about the rationality of faith. In the chapters that follow, we will examine these four scientific topics in greater detail, and will outline how each of them challenges our conventional understanding of “reality.”
 
-[^13]: William P. Alston, “A Philosopher’s Way Back to Faith,” in God and the Philosophers, Thomas V. Morris (Ed.), Oxford University Press, 1994.
-[^14]: Quoted in: Quentin Lauer, G. K. Chesterton, Philosopher Without a Portfolio, Fordham University Press, 1992.
-[^15]: Michael J. Buckley, The Catholic University as Promise and Project, Georgetown University Press, 1998.
+[^13]: William P. Alston, “A Philosopher’s Way Back to Faith,” in *God and the Philosophers*, Thomas V. Morris (Ed.), Oxford University Press, 1994.
+[^14]: Quoted in: Quentin Lauer, G. K. Chesterton, *Philosopher Without a Portfolio*, Fordham University Press, 1992.
+[^15]: Michael J. Buckley, *The Catholic University as Promise and Project*, Georgetown University Press, 1998.
 [^16]: Jane Austen, Pride and Prejudice, Penguin Books, 1994.
-[^17]: Michael J. Himes, “Finding God in All Thigns: A Sacremental Worldview and Its Effects," in As Leaven in the World: Catholic Perspective on Faith, Vocation and the Intellectual Life, Thomas Landy (Ed.), Rowman and Littlefield, 2001.
-[^18]: This categorization was proposed by M. Scott Peck, in The Different Drum: Community Making and Peace,  Simon and Schuster, 1987
-[^19]: Peck, The Different Drum: community Making and Peace.
-[^20]: George Smith is an atheist philosopher, and author of Atheism: The Case Against God, Prometheus Books, 1989.
-[^21]: Quoted in Brian Davies An Introduction to the Philosophy of Religion, Oxford University Press, 1993.
+[^17]: Michael J. Himes, “Finding God in All Thigns: A Sacremental Worldview and Its Effects," in *As Leaven in the World: Catholic Perspective on Faith, Vocation and the Intellectual Life*, Thomas Landy (Ed.), Rowman and Littlefield, 2001.
+[^18]: This categorization was proposed by M. Scott Peck, in *The Different Drum: Community Making and Peace*, Simon and Schuster, 1987
+[^19]: Peck, *The Different Drum: community Making and Peace*.
+[^20]: George Smith is an atheist philosopher, and author of *Atheism: The Case Against God*, Prometheus Books, 1989.
+[^21]: Quoted in Brian Davies, *An Introduction to the Philosophy of Religion*, Oxford University Press, 1993.
