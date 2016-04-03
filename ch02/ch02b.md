@@ -1,4 +1,4 @@
-## 2.2	Strange Attractors and Fractals
+## 2.2 Strange Attractors and Fractals
 
 Why do we use the attribute “strange” to describe chaotic attractors? The answer to this question appears to be obvious – one simply needs to contrast their highly unusual shapes with the shapes of more “conventional” attractors. There is, however, another reason for using this term, which has to do with the mathematical characterization of such objects. It turns out that chaotic attractors are *fractals*, which are considerably more complicated geometric forms than lines, surfaces or volumes. THis is yet another feature that distinguishes chaotic systems from their “well-behaved” counterparts.
 
